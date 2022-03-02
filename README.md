@@ -19,16 +19,16 @@ This is where you'll get different information about each of the features of you
 
 Create Data Dictionary
 
-age
-sex (1=Male, 0=Female)
-chest pain type (4 values)
-resting blood pressure
-serum cholestoral in mg/dl
-fasting blood sugar > 120 mg/dl
-resting electrocardiographic results (values 0,1,2)
-maximum heart rate achieved (thalach in dataset)
-exercise induced angina
-oldpeak = ST depression induced by exercise relative to rest
-the slope of the peak exercise ST segment
-number of major vessels (0-3) colored by flourosopy
-thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
+1. age
+2. sex (1=Male, 0=Female)
+3. chest pain type (4 values)
+4. resting blood pressure
+5. serum cholestoral in mg/dl
+6. fasting blood sugar > 120 mg/dl
+7. resting electrocardiographic results (values 0,1,2)
+8. maximum heart rate achieved (thalach in dataset)
+9. exercise induced angina
+10. oldpeak = ST depression induced by exercise relative to rest
+11. the slope of the peak exercise ST segment
+12. number of major vessels (0-3) colored by flourosopy
+13. thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
